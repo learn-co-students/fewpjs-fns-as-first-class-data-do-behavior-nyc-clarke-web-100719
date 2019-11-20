@@ -24,6 +24,5 @@ function greet(twentyFourHourTime) {
 
 /* Write your implementation of displayMessage() */
 function displayMessage(message) {
-  debugger;
   document.querySelector("#greeting").innerText = message;
 }
